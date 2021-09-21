@@ -1,7 +1,8 @@
 body{
-    background-color:#bdf7ff; 
+    background-color:#00FFFF; 
     max-height: 100%;
     overflow-x: hidden;
+    font-family: 'Mitr', sans-serif;
     /* font-family: 'Acme', sans-serif;
     font-family: 'Bebas Neue', cursive;
     font-family: 'Bree Serif', serif;
@@ -11,18 +12,20 @@ body{
     height: 65vh;
   } 
 .jumbotron1 p:nth-child(1){
-    font-family: ;
+    font-family:'Rammetto One', cursive;
     font-weight: bold;
-    color: #ffffff;
-    font-size: 300px;
+    color: #1AC0A6;
+    text-shadow: 3px 3px #059c86;
+    font-size: 228px;
     z-index: -1;
     position: absolute;
     left: 15%;
-    top: 10%;
+    top: 22%;
 } 
 .jumbotron1 p:nth-child(2){
-    font-family: ;
-    color: #403e3e;
+    font-family: 'Mitr', sans-serif;
+    color: #fbff00;
+    text-shadow: 3px 2px #030303;
     font-size: 45px;
     line-height: 45px;
     margin-top:14%;
@@ -30,6 +33,10 @@ body{
     justify-content: center;
     align-items: center; 
     text-align: center;
+}
+.card{
+    /* box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26); */
+    box-shadow: 8px 8px;
 }
 footer p{
     font-family: calibri;
