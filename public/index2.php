@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -8,33 +7,22 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
     <link rel="stylesheet" href="style1.css">
-    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Rammetto+One&display=swap');
-      </style>
-      <style>
-        @import url('https://fonts.googleapis.com/css2?family=Mitr:wght@600&display=swap');
-        </style>
-    <title>Dady.LON</title>
+    <title>Hello, world!</title>
   </head>
   <body>
  <!-- navbar -->
  <nav class="navbar navbar-expand-lg navbar-light container-fluid">
-    <a class="navbar-brand" href="#">DadyLON</a>
+    <a class="navbar-brand" href="#">Navbar</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item ">
-          <a class="nav-link" href="index.html">Blog <span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index1.php">Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="contact.html">Contact Us</a>
+          <a class="nav-link" href="contact.php">Contact Us</a>
         </li>
         </li>
       </ul>
@@ -43,63 +31,78 @@
  <!-- akhir navbar -->
 <!-- jumbotron -->
 <div class="jumbotron1 text-center">
-    <p>HALLO</p>
-    <p>Perkenalkan aku I Ketut Dady Usnadi
+    <p>HELLO</p>
+    <p>I'm a web developer based in
         <br>
-        bisa dipanggil Dadylon
+        Bali - Indonesia who loves to
         <br>
-        aku adalah calon web dev dari Bali 💻🤘</p>
+        translate design into real stuffs 💻🤘</p>
 </div>
 <!-- akhir jumbotron -->
 <!-- portfolio -->
-
 <section class="ftco-section ftco-project" id="projects-section">
-  <div class="container-fluid px-md-4">
-      <div class="row no-gutters justify-content-center pb-5">
-    <div class="col-md-12 heading-section text-center ftco-animate">
-        <h1 class="big big-2">Projects</h1>
-      <p>Belum Banyak</p>
-    </div>
+    <div class="container-fluid px-md-4">
+        <div class="row no-gutters justify-content-center pb-5">
+      <div class="col-md-12 heading-section text-center ftco-animate">
+          <h1 class="big big-2">Projects</h1>
+        <p>BLOM ADA :(</p>
+      </div>
 
 
 <div class="row">
-  <div class="col-md-6">
-      <div class="card mb-6 ">
-          <img class="card-img-top" src="images/port.png" alt="">
-      </div>          
-      <div class="card-body">
-      </div>
-  </div>
-      <div class="col-md-6">
-          <div class="card mb-6 ">
-              <img class="card-img-top" src="images/port.png" alt="">
-          </div> 
-          <div class="card-body">
-          </div>        
-      </div>
-</div>
-
-<div class="row">
-  <div class="col-md-6">
-          <div class="card mb-6 ">
-              <img class="card-img-top" src="images/port.png" alt="">
-          </div>  
-          <div class="card-body">
-          </div>       
-      </div>
-      <div class="col-md-6">
-        <div class="card mb-6 ">
+    <div class="col-md-6">
+        <div class="card mb-6 box-shadow">
             <img class="card-img-top" src="images/port.png" alt="">
-        </div>  
+        </div>
         <div class="card-body">
-        </div>       
+            <p class="card-text"></p>
+                <div class="btn-grup">
+                    <button type="button" class="btn btn-sm btn-outline-secondary ">View</button> 
+                </div>
+        </div>
     </div>
-    
+        <div class="col-md-6">
+            <div class="card mb-6 box-shadow">
+                <img class="card-img-top" src="images/port.png" alt="">
+            </div>
+            <div class="card-body">
+                <p class="card-text"></p>
+                    <div class="btn-grup">
+                         <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+                    </div>
+            </div>
+        </div>
+</div>
+<div class="row">
+
+    <div class="col-md-6">
+            <div class="card mb-6 box-shadow">
+                <img class="card-img-top" src="images/port.png" alt="">
+            </div>
+            <div class="card-body">
+                <p class="card-text"></p>
+                <div class="btn-grup">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+               </div>
+            </div>
+        </div>
+    <div class="col-md-6">
+            <div class="card mb-6 box-shadow">
+                <img class="card-img-top"src="images/port.png" alt="">
+            </div>
+            <div class="card-body">
+                <p class="card-text"></p>
+                <div class="btn-grup">
+                    <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
+               </div>
+            </div>
+        </div>
 </div>  
 </div>    
-  </div>
+    </div>
 
 </section>
+
 <!-- akhir portfolio -->
 <!-- footer -->
 <footer">
@@ -123,7 +126,7 @@
 
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2020 Copyright:
-      <a href="index.html"> DadyLon</a>
+      <a href="https://mdbootstrap.com/"> MDBootstrap.com</a>
     </div>
     <!-- Copyright -->
 
