@@ -50,6 +50,34 @@
         aku adalah calon web dev dari Bali 💻🤘</p>
 </div>
 <!-- akhir jumbotron -->
+<div class="container">
+  <h3 class="text-center">Siapa saya ?</h3>
+  <br>
+  <div class="row">
+    <div class="col-md-2">
+
+    </div>
+    <div class="col-ms-4">
+      <div class="card" style="width: 18rem;">
+        <img class="card-img-top" src="images/dylonganteng.jpg" alt="Card image cap">
+      </div>
+    </div>
+    <div class="col-md-5">
+<br>
+<br>      <p>
+        Perkenalkan aku I Ketut Dady Usnadi bisa dipanggil Dadylon aku adalah calon web dev dari Bali 💻🤘,saya berumur 20 tahun berkuliah di INSTIKI</p>
+        <p>
+          Saya lulusan dari SMK TI Global Jimbaran dan melanjukan mencari ilmu di INSTIKI agar tidak sia sia saya belajar RPL di SMK saya. Maka dari itu lah saya butuh doa dari teman-teman saya yang melihat website ini semoga saya bisa menjadi web dev. terima kasih...
+        </p>
+        <p>
+          Lagi Sekali Mohon doa restunya saya sebagai web dev dari bali..
+        </p>
+      </p>
+    </div>
+  </div>
+</div>
+<br>
+<br>
 <!-- portfolio -->
 
 <section class="ftco-section ftco-project" id="projects-section">
@@ -61,17 +89,18 @@
     </div>
 
 
+
 <div class="row">
   <div class="col-md-6">
       <div class="card mb-6 ">
-          <img class="card-img-top" src="images/port.png" alt="">
+          <img class="card-img-top" src="images/port1.png" alt="">
       </div>          
       <div class="card-body">
       </div>
   </div>
       <div class="col-md-6">
           <div class="card mb-6 ">
-              <img class="card-img-top" src="images/port.png" alt="">
+              <img class="card-img-top" src="images/port2.png" alt="">
           </div> 
           <div class="card-body">
           </div>        
@@ -81,14 +110,14 @@
 <div class="row">
   <div class="col-md-6">
           <div class="card mb-6 ">
-              <img class="card-img-top" src="images/port.png" alt="">
+              <img class="card-img-top" src="images/port3.png" alt="">
           </div>  
           <div class="card-body">
           </div>       
       </div>
       <div class="col-md-6">
         <div class="card mb-6 ">
-            <img class="card-img-top" src="images/port.png" alt="">
+            <img class="card-img-top" src="images/port4.png" alt="">
         </div>  
         <div class="card-body">
         </div>       
