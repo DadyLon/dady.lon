@@ -8,6 +8,11 @@ body{
     font-family: 'Bree Serif', serif;
     font-family: 'Fredoka One', cursive; */
 }
+.btn{
+    border-radius: 5%;
+    border-color: #f6ff00;
+    border-width: 6px;
+}
 .jumbotron1 {
     height: 65vh;
   } 
@@ -16,11 +21,11 @@ body{
     font-weight: bold;
     color: #1AC0A6;
     text-shadow: 3px 3px #059c86;
-    font-size: 228px;
+    font-size: 238px;
     z-index: -1;
     position: absolute;
-    left: 15%;
-    top: 22%;
+    left: 12%;
+    top: 25%;
 } 
 .jumbotron1 p:nth-child(2){
     font-family: 'Mitr', sans-serif;
@@ -38,6 +43,11 @@ body{
     /* box-shadow: 0 0 10px 0 rgba(100, 100, 100, 0.26); */
     box-shadow: 8px 8px;
 }
+/* .card-body{
+    border-color: #000000;
+    border-width: 9px;
+    box-shadow: 8px 8px 8px;
+} */
 footer p{
     font-family: calibri;
    }
